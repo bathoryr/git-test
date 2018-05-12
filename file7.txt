@@ -1,4 +1,7 @@
 based on Major.1 version
 
+<<<<<<< HEAD
 new content
 some change
+=======
+>>>>>>> Added file 7
